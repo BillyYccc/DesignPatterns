@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DependenceInversionPrincipleDemoBadExample.iml" filepath="$PROJECT_DIR$/.idea/modules/DependenceInversionPrincipleDemoBadExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DependenceInversionPrincipleDemoBadExample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DependenceInversionPrincipleDemoBadExample_main.iml" group="DependenceInversionPrincipleDemoBadExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DependenceInversionPrincipleDemoBadExample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DependenceInversionPrincipleDemoBadExample_test.iml" group="DependenceInversionPrincipleDemoBadExample" />
+    </modules>
+  </component>
+</project>
