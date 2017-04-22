@@ -18,3 +18,12 @@
 
 #### DependenceInversionPrincipleDemoGoodExample
 依赖倒置原则正面例子代码
+
+## ISPDemo
+接口隔离原则示例代码
+
+#### InterfaceSegregationPrincipleDemoBadExample
+接口隔离原则反例代码
+
+#### InterfaceSegregationPrincipleDemoGoodExample
+接口隔离原则正面例子代码
