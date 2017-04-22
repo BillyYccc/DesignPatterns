@@ -27,3 +27,6 @@
 
 #### InterfaceSegregationPrincipleDemoGoodExample
 接口隔离原则正面例子代码
+
+## LoDDemo
+迪米特原则示例代码
