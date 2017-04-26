@@ -1,5 +1,5 @@
 # DesignPatterns
-设计模式示例代码:项目均使用Intellij Idea + gradle进行构建
+设计模式六大原则示例代码:项目均使用Intellij Idea + Gradle进行构建
 
 ## SRPDemo
 单一职责原则示例代码
